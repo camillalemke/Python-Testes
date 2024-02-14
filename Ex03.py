@@ -1,3 +1,6 @@
+# Dentre quatro alunos, um professor quer sortear um deles para pagar o quadro. 
+# Criar um programa que leia o nome de cada um dos alunos e mostre na tela o aluno escolhido.
+
 import random
 n1 = str(input('Nome do aluno '))
 n2 = str(input('Nome do segundo aluno '))
