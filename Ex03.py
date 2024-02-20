@@ -1,4 +1,4 @@
-# Dentre quatro alunos, um professor quer sortear um deles para pagar o quadro. 
+# Dentre quatro alunos, um professor quer sortear um deles para apagar o quadro. 
 # Criar um programa que leia o nome de cada um dos alunos e mostre na tela o aluno escolhido.
 
 import random
